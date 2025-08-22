@@ -1,21 +1,30 @@
-# Assignment 1 - Web Application  
+# Assignment 1 – Next.js Application
 
-## Features  
-- **Navigation Bar** with Light/Dark mode toggle  
-- **About Page** with project overview  
-- **Tabs Page**  
-  - Add up to **15 tabs**  
-  - Tabs persist with **localStorage** (stay after refresh)  
-  - Tabs can be **edited** (title + content) and **deleted**  
-  - **Generate Output** button → creates inline HTML code (demo works with 1, 3, and 5 tabs)  
-- **Hamburger Menu** with CSS transform animation  
-- **Footer** with clean layout  
+This project was developed as part of Assignment 1 using **Next.js (App Router, TypeScript, TailwindCSS)**.
 
 ---
 
-## Getting Started  
+## Git Workflow
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name> 
+For version control, I used Git and GitHub.  
+- The main branch (`main`) was kept clean and production-ready.  
+- I created feature branches such as `feature/navbar`, `feature/tabs`, and `feature/darkmode`.  
+- Each branch contained descriptive commits, and I used Pull Requests to merge changes back into `main`.  
+- This workflow ensured clear history and traceability of changes.
+
+---
+
+## Use of AI Tools (Declaration)
+
+I used ChatGPT as a support tool during development.  
+- ChatGPT assisted me with explanations of Git workflow, debugging React/Next.js errors, and structuring the assignment documentation.  
+- All code was written, tested, and verified by me, with AI acting only as a guide/reference.  
+
+---
+
+## Technologies
+
+- Next.js with TypeScript  
+- App Router  
+- Tailwind CSS  
+- GitHub for version control
