@@ -14,6 +14,16 @@ For version control, I used Git and GitHub.
 
 ---
 
+## Features
+- Navigation bar, header, and footer
+- About page
+- Dark/Light mode toggle
+- Hamburger menu with CSS transform
+- Tabs page (up to 15 tabs) with localStorage persistence
+- Output button (inline HTML export, works for 1/3/5 tab demos)
+
+---
+
 ## Use of AI Tools (Declaration)
 
 I used ChatGPT as a support tool during development.  
